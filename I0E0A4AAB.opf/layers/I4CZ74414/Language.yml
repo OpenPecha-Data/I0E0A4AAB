@@ -1,0 +1,24 @@
+id: fac906d892154e84957f43829176cacb
+annotation_type: Language
+revision: '00001'
+annotations:
+  9bd33d4e2e0f4a69b4d61293cf02b7b0:
+    span:
+      start: 39
+      end: 165
+    language: en
+  ce8e022b8e9843b4afda9de86f8c7c5b:
+    span:
+      start: 228
+      end: 599
+    language: en
+  d8e7f4fd1805461ab808232ff15c8af5:
+    span:
+      start: 265584
+      end: 265620
+    language: sa-Deva
+  acdabca8b764451f81f98e319d4b5293:
+    span:
+      start: 265669
+      end: 265698
+    language: sa-Deva
